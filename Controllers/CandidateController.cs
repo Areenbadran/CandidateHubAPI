@@ -40,8 +40,7 @@ public class CandidateController : ControllerBase
             //insert new candidate
             await _context.Candidates.AddAsync(candidate);
             await _context.SaveChangesAsync();
-            return CreatedAtAction(nameof(InsertCandidate), new { email = candidate.Email },
-                                   new { message = "Candidate created successfully." });
+            return CreatedAtAction(nameof(InsertCandidate), new { email = candidate.Email }, new { message = "Candidate created successfully." });
         }
     }
 }
