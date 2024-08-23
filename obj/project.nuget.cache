@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "IJfFJ3CDIzpu53VX2XfksW512c1/lCR1y2/VoAha3c6MWXBCCGG3RMoC55v6Kfn55s1bV+6vQ3UvXQKeXNBIlQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\areen\\OneDrive\\Desktop\\Sigma Software Task\\CndidateHubAPI\\CndidateHubAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\areen\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\areen\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\areen\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\areen\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\areen\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\areen\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

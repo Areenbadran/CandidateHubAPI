@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CndidateHubAPI", "CndidateHubAPI.csproj", "{8E14564C-037B-44A0-A5A0-FF49B5EC8DEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E14564C-037B-44A0-A5A0-FF49B5EC8DEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E14564C-037B-44A0-A5A0-FF49B5EC8DEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E14564C-037B-44A0-A5A0-FF49B5EC8DEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E14564C-037B-44A0-A5A0-FF49B5EC8DEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEBB677F-8E74-4005-A1F3-3F465B76A3D3}
+	EndGlobalSection
+EndGlobal
