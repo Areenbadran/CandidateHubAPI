@@ -1,8 +1,6 @@
-﻿using CndidateHubAPI.Model;
-using Microsoft.AspNetCore.Components;
+﻿using CandidateHubAPI.Model;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using RouteAttribute = Microsoft.AspNetCore.Components.RouteAttribute;
 
 [ApiController]
 [Route("api/[controller]")]
@@ -16,6 +14,7 @@ public class CandidateController : ControllerBase
     }
 
     [HttpPost]
+    [Route("InsertCandidate")]
     public async Task<IActionResult> InsertCandidate([FromBody] Candidate candidate)
     {
         var existingCandidate = await _context.Candidates

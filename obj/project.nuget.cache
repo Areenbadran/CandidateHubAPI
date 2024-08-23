@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TesfdZPcDujEwIU04nA8QzJtgSqHPnOahvKE/QAfZ8VyHhj9aQLtIwspM92f+go9pGtb1LQcVMJDfmtHXZagIg==",
+  "dgSpecHash": "WYPCxnWK47qMYMwOle3o9/eN7nnTP+teNOdqOHRU8pO6EC5MO6RjLNhvsUkjT2ev3Bnvmy90OjmcFo2UY6Jn0Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\areen\\OneDrive\\Desktop\\Sigma Software Task\\CndidateHubAPI\\CndidateHubAPI.csproj",
+  "projectFilePath": "C:\\Users\\areen\\OneDrive\\Desktop\\Sigma Software Task\\CndidateHubAPI\\CandidateHubAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\areen\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\areen\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
@@ -51,7 +51,11 @@
     "C:\\Users\\areen\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
     "C:\\Users\\areen\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
     "C:\\Users\\areen\\.nuget\\packages\\system.text.encoding.codepages\\4.7.0\\system.text.encoding.codepages.4.7.0.nupkg.sha512",
-    "C:\\Users\\areen\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
+    "C:\\Users\\areen\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
+    "C:\\Users\\areen\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.31\\microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\areen\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.31\\microsoft.windowsdesktop.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\areen\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.31\\microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\areen\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.31\\microsoft.netcore.app.host.win-x64.6.0.31.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,4 +1,4 @@
-using CndidateHubAPI.Model;
+using CandidateHubAPI.Model;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);

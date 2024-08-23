@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 
-namespace CndidateHubAPI.Model
+namespace CandidateHubAPI.Model
 {
     public class AppDbContext : DbContext
     {

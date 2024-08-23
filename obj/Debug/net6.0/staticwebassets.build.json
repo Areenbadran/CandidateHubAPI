@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "lJn5czjdBq0GwAXv91OcO9538OPi0pefDfehbZunX3M=",
-  "Source": "CndidateHubAPI",
-  "BasePath": "_content/CndidateHubAPI",
+  "Hash": "ZJvpiuey0SR1y8nMlxozuE2coetxZGDlih1Ee7tJ7yI=",
+  "Source": "CandidateHubAPI",
+  "BasePath": "_content/CandidateHubAPI",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
