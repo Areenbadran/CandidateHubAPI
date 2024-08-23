@@ -31,14 +31,17 @@ public class CandidateController : ControllerBase
             existingCandidate.LinkedInProfile = candidate.LinkedInProfile;
             existingCandidate.GitHubProfile = candidate.GitHubProfile;
             existingCandidate.FreeTextComment = candidate.FreeTextComment;
+
+            await _context.SaveChangesAsync();
+            return Ok(new { message = "Candidate information updated successfully." });
         }
         else
         {
-            //insert candidate
+            //insert new candidate
             await _context.Candidates.AddAsync(candidate);
+            await _context.SaveChangesAsync();
+            return CreatedAtAction(nameof(InsertCandidate), new { email = candidate.Email },
+                                   new { message = "Candidate created successfully." });
         }
-
-        await _context.SaveChangesAsync();
-        return Ok();
     }
 }
