@@ -54,6 +54,6 @@ Run the Application: dotnet run
 
 
 ## Contact:
-Name: Areen Badran
-Email: areenbadran9@gmail.com
+Name: Areen Badran <br/>
+Email: areenbadran9@gmail.com <br/>
 GitHub: https://github.com/Areenbadran
